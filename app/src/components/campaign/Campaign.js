@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 
-import Media from "../media/Media"
+// import Media from "../media/Media"
 
 import "./campaign.css";
 
