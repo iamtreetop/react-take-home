@@ -1,0 +1,39 @@
+.campaign-card {
+  margin: 10px;
+  display: flex;
+  flex-direction: column; 
+}
+
+.card-container {
+  display:flex;
+  flex-direction: column;
+  list-style: none;
+}
+
+.header-container {
+  /* background-color: blue; */
+  display: flex;
+  justify-content: flex-start;
+}
+
+.campaign-icon {
+  height: 60px;
+  border-radius: 20px;
+  margin: auto 0 auto 0;
+}
+
+.campaign-details {
+  padding-left: 10px;
+
+}
+
+.campaign-details > h3 {
+  color: green;
+  margin-top: -20px;
+}
+
+.campaign-cover-photo {
+  border-radius: 20px;
+  height: 400px;
+  width: 225px;
+}
